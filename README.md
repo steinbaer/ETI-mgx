@@ -1,5 +1,5 @@
 # ETI-mgx
-Project and script repository for "Longitudinal effects of Elexacaftor/Tezacaftor/Ivacaftor on the oropharyngeal metagenome in children with cystic fibrosis"
+Project and script repository for "Longitudinal effects of Elexacaftor/Tezacaftor/Ivacaftor on the oropharyngeal metagenome in adolescents with cystic fibrosis"
 
 ## Scripts
 ### Bash scripts
@@ -13,4 +13,4 @@ Project and script repository for "Longitudinal effects of Elexacaftor/Tezacafto
 - StrainPhlAn clustering and mutation rates
 
 ## Data
-Raw sequencing data (after human read removal) have been stored accessible for the public in the NCBI bioproject repository (https://www.ncbi.nlm.nih.gov/bioproject/ with the accession code “PRJNA1019921”). Study participant and further metadata is available upon reasonable request.
+Raw sequencing data (after human read removal) have been stored accessible for the public in the NCBI bioproject repository (https://www.ncbi.nlm.nih.gov/bioproject/ with the accession code “PRJNA1101448”). Study participant and further metadata is available upon reasonable request.
