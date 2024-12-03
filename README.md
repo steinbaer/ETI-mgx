@@ -10,7 +10,7 @@ Project and script repository for "Longitudinal effects of Elexacaftor/Tezacafto
 ### R scripts
 - alpha-diversity, beta-diversity and differential abundance
 - StrainPhlAn trees
-- StrainPhlAn clusteriing and mutation rates
+- StrainPhlAn clustering and mutation rates
 
 ## Data
 Raw sequencing data (after human read removal) have been stored accessible for the public in the NCBI bioproject repository (https://www.ncbi.nlm.nih.gov/bioproject/ with the accession code “PRJNA1019921”). Study participant and further metadata is available upon reasonable request.
